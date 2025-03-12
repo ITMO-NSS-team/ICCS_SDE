@@ -1,6 +1,6 @@
-# MDPI
-Code for paper Algorithm of stochastic differential equation discovery with evolutionary approach submitted to MDPI ALgorihtms Journal.
-The repository includes the results of numerical experiments presented in the study:
+# ICCS
+Code for paper Enhancing Time-Series Forecasting with Stochastic Differential Equation Discovery: An Evolutionary Approach submitted to ICCS 2025.
+The repository includes the code of numerical experiments presented in the study:
 - Dynamics of the behavior of the open-price equation depending on the selected interval;
 - Lotka-Volterra equation;
 - Exchange rate data from GLUONTS open datasets.
